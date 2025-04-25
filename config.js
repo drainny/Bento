@@ -78,7 +78,7 @@ const CONFIG = {
 		{
 			id: '5',
 			name: '鱿馆',
-			icon: 'telegram',
+			icon: 'send',
 			link: 'https://web.telegram.org/a/#-1001502546366',
 		},
 		{
