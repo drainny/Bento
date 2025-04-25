@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://outlook.live.com/',
 		},
 		{
 			id: '3',
@@ -104,8 +104,8 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'bot',
-			icon: 'bot',
+			name: '鱿馆',
+			icon: 'telegram',
 			link: 'https://discord.com/app',
 		},
 		{
